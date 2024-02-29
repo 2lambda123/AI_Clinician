@@ -3,7 +3,8 @@
 ## Tech Stack
 2lambda123/AI_Clinician is built on the following main stack:
 
-
+- [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
 
@@ -13,7 +14,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/AI_Clinician is built on the following main stack:
 
-
+- <img width='25' height='25' src='https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg' alt='MATLAB'/> [MATLAB](http://www.mathworks.com/products/matlab/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
 
 Full tech stack [here](/techstack.md)
 
@@ -24,9 +26,48 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/AI_Clinician](https://github.com/2lambda123/AI_Clinician)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|0<br/>Tools used|01/09/24 <br/>Report generated|
+|3<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
+
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg' alt='MATLAB'>
+  <br>
+  <sub><a href="http://www.mathworks.com/products/matlab/">MATLAB</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <br>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## Other (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'>
+  <br>
+  <sub><a href="http://jupyter.org">Jupyter</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
 
 <br/>
 <div align='center'>
